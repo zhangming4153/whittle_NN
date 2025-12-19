@@ -1,0 +1,7 @@
+numpy>=1.22
+matplotlib
+dataclass
+typing
+math
+scipy
+numba
