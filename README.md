@@ -12,7 +12,7 @@
    pip install -r requirements.txt
 
 ## 目录结构
-
+```
 hawkes-repro/
 │
 │
@@ -34,6 +34,7 @@ hawkes-repro/
 │
 ├── requirements.txt       # Python 依赖包列表
 └── LICENSE                # 项目许可证
+```
 
 ## 依赖与环境
 见 `requirements.txt`。推荐 Python 3.9+。
